@@ -1,7 +1,0 @@
-node_modules/
-.parcel-cache/
-dist/
-.git
-/integrate-with-svelte/public/build
-.DS_Store
-build_github/

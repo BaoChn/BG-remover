@@ -1,17 +1,49 @@
-![Hero image showing the configuration abilities of CE.SDK](https://img.ly/static/cesdk_release_header.png)
+# Getting Started with Create React App
 
-# CreativeEditor SDK - Web Examples
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The CreativeEditor SDK (**CE.SDK**) for Web is a fully customizable, simple-to-use design editor.
+## Available Scripts
 
-Seamlessly integrate it into any Web app with just a few lines of code. The editor combines the best of layout, typography and photo editing. **CE.SDK** also facilitates both template creation and adaption workflows, also featuring constraints and text placeholders for database automations.
+In the project directory, you can run:
 
-Visit our [website](https://img.ly) for more tutorials on how to integrate and customize the editor for your specific use-case.
 
-## Documentation
-The full documentation of the CreativeEditor SDK can be found at
-[https://img.ly/docs/cesdk/](https://img.ly/docs/cesdk/).
+### `npm install` + `--legacy-peer-deps`
 
-## License
+### > `npm start`
 
- The CreativeEditor SDK is a commercial product. To use it as such and get access to its white label version - without the watermark in the export - you need to unlock the SDK with a license file. You can purchase a license at https://img.ly/pricing.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
