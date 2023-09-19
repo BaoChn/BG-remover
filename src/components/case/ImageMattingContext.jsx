@@ -21,10 +21,10 @@ const ImageMattingContext = createContext({
 const STATUS_MESSAGES = {
   idle: '',
   init: 'Initializing...',
-  fetching: '下载资源文件中…',
-  processing: '正在拼命去除图像背景…',
+  fetching: '加载资源中…',
+  processing: '拼命去除图像背景…',
   done: '',
-  error: '未能成功去除图像背景:-('
+  error: '未能去除图像背景:-('
 };
 const PROCESSING_STATUS = ['init', 'fetching', 'processing'];
 
